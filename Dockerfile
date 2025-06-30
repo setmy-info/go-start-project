@@ -1,6 +1,6 @@
 FROM setmyinfo/setmy-info-centos:v1.0.4
 
-MAINTAINER Imre Tabur "imre.tabur@eesti.ee"
+MAINTAINER Imre Tabur "imre.tabur@mail.ee"
 
 LABEL org.label-schema.name="Docker HUB CentOS Golang micro service base" \
       org.label-schema.version="1.2.0-SNAPSHOT" \
